@@ -8,4 +8,7 @@ Dropdown menu or radio button for the user to choose if they are inputting in Ce
 "Convert" button to trigger the temperature conversion
 Display area for the final converted temperature and unit
 For an extra challenge: You can add in a third conversion option to convert from and to Kelvin as well.</p>
+<hr>
+
+<img src="Tempreture-Image.png" alt="Temp-Image">
 
